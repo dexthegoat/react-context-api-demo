@@ -1,0 +1,2 @@
+context API适合low frequency update state的项目
+不适合太大的项目
